@@ -1,4 +1,4 @@
-# real-coding-howto
+# Real Coding Howto
 
 An instructional guide for middleschoolers about how to actually code and learn instead of using AI slop
 
